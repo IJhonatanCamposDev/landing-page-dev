@@ -14,7 +14,7 @@ Landing page profissional em dark mode desenvolvida com **HTML, CSS e JavaScript
 - JavaScript (DOM e eventos)
 
 ## 🌍 Projeto online
-Acesse: https://seuusuario.github.io/landing-page-dev/
+Acesse: (https://ijhonatancamposdev.github.io/landing-page-dev/)
 
 ## 📸 Preview
 
